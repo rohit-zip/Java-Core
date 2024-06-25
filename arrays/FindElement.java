@@ -9,6 +9,7 @@ import java.util.Scanner;
  * Package - arrays
  * Created_on - June 25 - 2024
  * Created_at - 13:05
+ * Solution - https://www.youtube.com/watch?v=3AcyounXhfg&list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk&index=96&pp=iAQB
  */
 
 public class FindElement {
